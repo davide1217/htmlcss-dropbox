@@ -1,0 +1,59 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+footer{
+  padding-top: 100px;
+}
+
+.subscription .bottom{
+  margin-top: 100px;
+}
+
+.client{
+  position: relative;
+  width: 100%;
+  padding-top: 100%;
+ }
+
+.client > img{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+header{
+  height: 60px;
+}
+
+header > div{
+  line-height: 60px;
+}
+
+#logo{
+  width: 90px;
+}
+
+header img{
+  vertical-align: middle;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+header li{
+  margin: 0 15px;
+}
+
+header li:hover:not(li:first-of-type){
+  border-bottom: 2px solid black;
+}
+
+header a{
+  color: black;
+}
+
+header > div:last-of-type{
+  text-align: right;
+}

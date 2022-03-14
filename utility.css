@@ -1,0 +1,42 @@
+
+
+.container-90{
+  width: 90%;
+  margin: 0 auto;
+}
+
+.container-80{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.w-30-margin{
+  width: calc((100% - 60px) / 3);
+}
+
+section{
+  padding: 100px 0;
+}
+
+.center{
+  margin: 0 30px;
+}
+
+ul{
+  list-style: none;
+  display: inline-block;
+}
+
+a{
+  text-decoration: none;
+}
+
+.button{
+  color: white;
+  background-color: #065FF6;
+  padding: 5px 15px;
+}
+
+.button:hover{
+  background-color: #B4D0E7;
+}
