@@ -57,3 +57,29 @@ header a{
 header > div:last-of-type{
   text-align: right;
 }
+
+.jumbotron{
+  background-color: #B4D0E7;
+  padding-bottom: 0;
+}
+
+.jumbotron h1{
+  font-size: 60px;
+  margin-bottom: 30px;
+}
+
+.jumbotron .content div{
+  margin: 20px 0 15px 0;
+}
+
+.jumbotron i{
+font-size: 30px;
+}
+
+.jumbotron img{
+  height: 500px;
+}
+
+.jumbotron .container-90{
+  margin-bottom: -80px;
+}
