@@ -59,8 +59,9 @@ header > div:last-of-type{
 }
 
 .jumbotron{
+  height: 700px;
   background-color: #B4D0E7;
-  padding-bottom: 0;
+  margin-bottom: 150px;
 }
 
 .jumbotron h1{
@@ -78,8 +79,4 @@ font-size: 30px;
 
 .jumbotron img{
   height: 500px;
-}
-
-.jumbotron .container-90{
-  margin-bottom: -80px;
 }
